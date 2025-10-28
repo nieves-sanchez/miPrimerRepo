@@ -1,41 +1,24 @@
-name	about	title	labels	assignees
 ---
-
-name: "🐛 Bug Report"
-about: "Reportar un error para ayudarnos a mejorar el proyecto."
-title: "[BUG] - Descripción corta del error"
+name: "🐞 Reporte de bug"
+about: "Usa esta plantilla para reportar un error"
+title: "[BUG] Breve descripción del problema"
 labels: bug
-assignees: ""
-
+assignees: ''
 ---
 
-## 🐛 Bug Report
+**Describe el bug**
+Una descripción clara y concisa del error.
 
-### Descripción
-
-Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
-
-### Pasos para reproducir
-
+**Pasos para reproducirlo**
 1. Ir a '...'
-2. Hacer clic en '...'
-3. Describir cualquier otra acción hasta que ocurra el problema.
-4. Error que aparece: '...'
+2. Hacer clic en '....'
+3. Ver el error
 
-### Comportamiento esperado
+**Comportamiento esperado**
+Explica qué debería pasar.
 
-Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
+**Capturas de pantalla**
+Si aplica, agrega capturas o vídeos.
 
-### Capturas de pantalla o registros
-
-Si es posible, añade capturas de pantalla o registros de errores.
-
-### Entorno
-
-- Sistema operativo: [p. ej., Windows 10, macOS Catalina]
-- Navegador y versión: [p. ej., Chrome 87, Safari 14]
-- Versión del proyecto: [p. ej., 1.0.0]
-
-### Información adicional
-
-Cualquier otra información relevante.
+**Información adicional**
+Cualquier otro contexto que pueda ayudar.
